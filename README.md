@@ -407,3 +407,5 @@ FROM
 WHERE
     a.phone IS NOT NULL AND a.phone <> '';
 ```
+
+### Results/Findings
