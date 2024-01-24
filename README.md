@@ -1,5 +1,16 @@
 # Movie-Rental-Store-Analysis
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Tools Used](#tools-used)
+- [Expected Deliverables](#expected-deliverables)
+- [Benefits](benefits#)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](data-analysis#)
+- [Results/Findings](#results/findings)
+- [Recommendations](#recommendations)
+
 ### Project Overview:
 This portfolio project aims to analyze a movie rental database through SQL queries and present key insights through a comprehensive Power BI report. The analysis covers various business questions to aid decision-making and improve overall business performance.
 
@@ -409,3 +420,23 @@ WHERE
 ```
 
 ### Results/Findings
+#### Insights:
+- Eleanor is the top movie renter, closely followed by Karl Seal, Clara Shaw, Marcia Dean, and Tammy Sanders, contributing to a total of 16,044 movie rentals.
+- Average revenue surged from May to July 2005, followed by a significant 89.34% decline from August 2005 to February 2006, indicating potential opportunities for targeted promotions.
+
+#### Category Analysis:
+- Sports led with 1,179 rentals, surpassing others by 42.05%. Despite its popularity, Sports accounted for 7.35% of the total rental count.
+- Across 16 film categories, rental counts ranged from 830 to 1,179, reflecting diverse customer preferences.
+
+#### Staff Performance:
+- Staff 1 recorded 8,040 rentals, while Staff 2 recorded 8,004. Staff 1 generated higher revenue at $33,487.47, compared to Staff 2's $33,927.94.
+
+### Recommendations:
+#### Targeted Promotions:
+Implement targeted promotions during historically low-revenue months for increased customer engagement.
+
+#### Diversify Category Promotions:
+Promote films from underexplored categories to diversify rental patterns and potentially boost revenue.
+
+#### Staff Training and Recognition:
+Share best practices between staff members and consider training or incentives to enhance overall performance.
