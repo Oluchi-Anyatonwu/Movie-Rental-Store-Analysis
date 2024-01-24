@@ -14,7 +14,9 @@
 ### Project Overview:
 This portfolio project aims to analyze a movie rental database through SQL queries and present key insights through a comprehensive Power BI report. The analysis covers various business questions to aid decision-making and improve overall business performance.
 
-
+![movie rental 1](https://github.com/Oluchi-Anyatonwu/Movie-Rental-Store-Analysis/assets/61971994/52d55d14-9339-447c-821c-b604b7295c76)
+![movie rental 2](https://github.com/Oluchi-Anyatonwu/Movie-Rental-Store-Analysis/assets/61971994/5474aa59-a350-4c40-9887-fdf10bd7b39a)
+![movie rental 3](https://github.com/Oluchi-Anyatonwu/Movie-Rental-Store-Analysis/assets/61971994/ed1733a0-1c29-49c7-95d5-0d79e1f255d3)
 
 https://github.com/Oluchi-Anyatonwu/Movie-Rental-Store-Analysis/assets/61971994/e8f32ec1-b0cb-4c6c-ab0d-90ec745e78f9
 
